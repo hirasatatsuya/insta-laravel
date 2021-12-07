@@ -1,1 +1,1 @@
-# insta-laravel
+# instagram-laravel
